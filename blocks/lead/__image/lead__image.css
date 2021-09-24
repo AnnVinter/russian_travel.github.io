@@ -1,0 +1,11 @@
+.lead__image {
+<<<<<<< HEAD
+    margin-bottom: 8px;
+    width: 100%;
+    margin: auto;
+=======
+    width: 100%;
+    height: auto;
+    margin-bottom: 8px;
+>>>>>>> 8c96737814a091df9c9fc0399e4042d009ac6e6a
+}
