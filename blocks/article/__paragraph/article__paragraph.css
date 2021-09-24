@@ -1,0 +1,32 @@
+.article__paragraph {
+    margin-top: 26px;
+    padding: 0;
+    max-width: 484px;
+    font-size: 18px;
+    line-height: 163%;
+}
+
+.article__paragraph:first-of-type {
+    margin-top: 0;
+}
+
+@media screen and (max-width: 1279px) {
+    .article__paragraph {
+        max-width: 456px;
+    } 
+}
+
+@media screen and (max-width: 1023px) {
+    .article__paragraph {
+        font-size: 16px;
+        max-width: 352px;
+        margin: 25px 0 0 0;
+    } 
+}
+
+@media screen and (max-width: 767px){
+    .article__paragraph {
+        max-width: 288px;
+        margin-left: 16px;
+    }   
+}

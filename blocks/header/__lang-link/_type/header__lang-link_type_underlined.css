@@ -1,0 +1,8 @@
+.header__lang-link_type_underlined {
+    text-decoration-line: underline;
+    transition: text-decoration-line 1s ease-in-out;
+}
+
+.header__lang-link_type_underlined:hover {
+    text-decoration-line: none;
+}
